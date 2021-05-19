@@ -9,5 +9,6 @@
     <Import_RootNamespace>Straitjacket.ExtensionMethods.UnityEngine</Import_RootNamespace>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="$(MSBuildThisFileDirectory)Hierarchy.cs" />
   </ItemGroup>
 </Project>
