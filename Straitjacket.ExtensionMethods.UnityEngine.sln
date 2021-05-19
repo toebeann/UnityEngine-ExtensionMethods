@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "Straitjacket.ExtensionMethods.UnityEngine", "Straitjacket.ExtensionMethods.UnityEngine\Straitjacket.ExtensionMethods.UnityEngine.shproj", "{91E30B75-0933-43CC-98FF-7C9DCCA7F849}"
+EndProject
+Global
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		Straitjacket.ExtensionMethods.UnityEngine\Straitjacket.ExtensionMethods.UnityEngine.projitems*{91e30b75-0933-43cc-98ff-7c9dcca7f849}*SharedItemsImports = 13
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {15C37C6A-8F90-4518-981D-23199909839C}
+	EndGlobalSection
+EndGlobal
